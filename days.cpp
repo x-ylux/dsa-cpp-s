@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+//switch is used when 
 using namespace std;
 int main (){
     int day;
