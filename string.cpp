@@ -9,3 +9,4 @@ int main(){
 
 }
 // array is defined for numbers and string is defined for character and same properties apply for string as it were for array
+//you cant write j with"J" beacuse it is a character so it should be stored like'j'
