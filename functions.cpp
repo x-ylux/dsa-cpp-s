@@ -8,15 +8,16 @@
  // non parameterised
  #include<bits/stdc++.h>
  using namespace std;
- void printname(string name){
-    cout<<"hey mahi"<<name <<endl;
- }
- int main(){
-    string name ;
-        cin>> name  ;
-       printname(name ) ;
-        string name2;
-        cin>> name2 ;
-        printname (name2);
-        return 0;
-    }
+  void printnumber(int number) {
+   cout<< number << endl;
+  }
+   int main() {
+   int number;
+   cin>> number ;
+   printnumber(number);
+     
+   int number2;
+   cin>> number2;
+   printnumber(number2);
+   return 0;
+   }
