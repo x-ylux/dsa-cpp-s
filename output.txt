@@ -1,1 +1,3 @@
-3
+It is an Integer
+It is an Alphabet
+It is a double
