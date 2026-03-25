@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-//switch is used when 
+//switch is 
 using namespace std;
 int main (){
     int day;
@@ -9,10 +9,9 @@ int main (){
     case 1:
     cout <<"Monday";
         break;
-    
     case 2: 
     cout <<"Tuesday";
-    break;
+        break;
     case 3:
     cout<<"Wednesday";
     break;
